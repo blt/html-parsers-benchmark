@@ -10,7 +10,7 @@ Competitors
 
 * Mochiweb html parser.
   https://github.com/mochi/mochiweb/blob/master/src/mochiweb_html.erl
-  The only real-world HTML parser for Erlang. Written on pure Erlang.
+  The only real-world HTML parser for Erlang. Written in pure Erlang.
 
 ### CPython
 
